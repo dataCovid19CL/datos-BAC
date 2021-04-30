@@ -565,6 +565,6 @@ fecha	localidad	personas	BAC	positividad	cobertura	oportunidad
 2021-04-23	Metropolitana	97620	60.5	14.9	87.0	91.6
 2021-04-23	O’Higgins	16220	71.9	11.5	95.4	96.3
 2021-04-23	Tarapacá	10571	79.9	9.2	98.6	95.4
-2021-04-23	Total	Pais	329259	69.0	12.3	91.0	94.1
+2021-04-23	Total País	329259	69.0	12.3	91.0	94.1
 2021-04-23	Valparaíso	30269	71.2	12.9	95.8	94.5
 2021-04-23	Ñuble	8408	64.3	10.6	88.5	97.4
